@@ -1,0 +1,3 @@
+# Ignore temporary Word files
+~$*.docx
+~*.tmp
